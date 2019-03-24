@@ -1,0 +1,3 @@
+rootProject.name = 'sg_app_1621'
+
+include ':app'
